@@ -10,4 +10,5 @@ Hey, I am learning Angular.
 8. ng build
 9. ng serve
 10. ng deploy
+11. ng new first->ng serve -> localhost:4200
 
