@@ -6,4 +6,8 @@ Hey, I am learning Angular.
 4. https://angular.io/cli
 5. ng new project-name
 6. ng generate
+7. ng add
+8. ng build
+9. ng serve
+10. ng deploy
 
