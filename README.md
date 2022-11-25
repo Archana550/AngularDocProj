@@ -5,4 +5,5 @@ Hey, I am learning Angular.
 3. npm -v
 4. https://angular.io/cli
 5. ng new project-name
+6. ng generate
 
