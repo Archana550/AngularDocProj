@@ -4,5 +4,5 @@ Hey, I am learning Angular.
 2. node -v
 3. npm -v
 4. https://angular.io/cli
-5. ng new
+5. ng new project-name
 
