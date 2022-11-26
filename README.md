@@ -16,3 +16,4 @@ Hey, I am learning Angular.
 
 12. Interpolation {{}}
 13. Event Binding  (event) ="function()"
+14. ctrl + F =search directly in a webpage
