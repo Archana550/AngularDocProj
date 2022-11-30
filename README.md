@@ -21,3 +21,4 @@ Hey, I am learning Angular.
 16. https://angular.io/docs
 17. ng generate component components/icon (ng g c components/icon)
 18. Alt + Shift + Downkey  to duplicate a row in VS code
+19. Services and pipes
