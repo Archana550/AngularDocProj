@@ -22,3 +22,4 @@ Hey, I am learning Angular.
 17. ng generate component components/icon (ng g c components/icon)
 18. Alt + Shift + Downkey  to duplicate a row in VS code
 19. Services and pipes
+20. Ctrl + C = kill terminal process
