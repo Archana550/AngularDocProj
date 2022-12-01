@@ -23,3 +23,6 @@ Hey, I am learning Angular.
 18. Alt + Shift + Downkey  to duplicate a row in VS code
 19. Services and pipes
 20. Ctrl + C = kill terminal process
+21. BINDING
+22. PIPES
+23. COMPONENTS
