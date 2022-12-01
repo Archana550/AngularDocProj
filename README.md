@@ -1,6 +1,6 @@
 # AngularDocProj
 Hey, I am learning Angular.
-Keywords for quick mind-mapping.
+- Keywords for quick mind-mapping.
 1. ng version (to check angular version)
 2. node -v
 3. npm -v
