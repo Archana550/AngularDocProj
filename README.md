@@ -34,3 +34,4 @@ Hey, I am learning Angular.
 24. COMPONENTS
 25. RxJs , subscribe, observable *
 26. Reactive and Template based forms
+27. Validators
