@@ -1,5 +1,6 @@
 # AngularDocProj
 Hey, I am learning Angular.
+Keywords for quick mind-mapping.
 1. ng version (to check angular version)
 2. node -v
 3. npm -v
@@ -24,6 +25,7 @@ Hey, I am learning Angular.
 19. Services and pipes
 20. Ctrl + C = kill terminal process
 21. TYPESCRIPT
-22. BINDING
-23. PIPES
-24. COMPONENTS
+22. Decorators
+23. BINDING
+24. PIPES
+25. COMPONENTS
