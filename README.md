@@ -32,3 +32,4 @@ Hey, I am learning Angular.
 - PIPES
 
 24. COMPONENTS
+25. RxJs , subscribe, observable *
