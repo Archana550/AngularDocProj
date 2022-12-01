@@ -26,6 +26,9 @@ Hey, I am learning Angular.
 20. Ctrl + C = kill terminal process
 21. TYPESCRIPT
 22. Decorators
-23. BINDING
-24. PIPES
-25. COMPONENTS
+23. Templates( https://angular.io/guide/template-overview )
+- INTERPOLATION
+- BINDING
+- PIPES
+
+24. COMPONENTS
