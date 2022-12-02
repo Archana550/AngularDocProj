@@ -1,6 +1,8 @@
 # RandomCard![angularwithapi](https://user-images.githubusercontent.com/51438542/205219891-8afcf162-af8f-4a9b-93e6-6cb08e82d9cb.JPG)
 
-- Angular with API( randomuser.me/api )
+- Angular with API
+- https://jsonformatter.org/
+- https://randomuser.me/api
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
