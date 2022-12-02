@@ -36,3 +36,5 @@ Hey, I am learning Angular.
 26. Reactive and Template based forms
 27. Validators
 28. https://angular.io/cli/new  project with routing module(ng new name --routing) and much more
+29. Routing notes- https://angular.io/guide/router
+
