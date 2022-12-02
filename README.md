@@ -35,4 +35,4 @@ Hey, I am learning Angular.
 25. RxJs , subscribe, observable *
 26. Reactive and Template based forms
 27. Validators
-28. https://angular.io/cli/new
+28. https://angular.io/cli/new  project with routing module(ng new name --routing) and much more
