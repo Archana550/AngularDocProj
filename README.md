@@ -37,4 +37,9 @@ Hey, I am learning Angular.
 27. Validators
 28. https://angular.io/cli/new  project with routing module(ng new name --routing) and much more
 29. Routing notes- https://angular.io/guide/router
+30. npm i -g typescript
+31. tsc -version
+32. npm install -g @angular/cli
+33. ng serve -o (open file in code editor)
+32
 
