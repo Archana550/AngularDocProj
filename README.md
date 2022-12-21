@@ -41,5 +41,5 @@ Hey, I am learning Angular.
 31. tsc -version
 32. npm install -g @angular/cli
 33. ng serve -o (open file in code editor)
-32
+34. custom pipes
 
