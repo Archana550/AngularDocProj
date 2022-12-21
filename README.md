@@ -33,13 +33,14 @@ Hey, I am learning Angular.
 
 24. COMPONENTS
 25. RxJs , subscribe, observable *
-26. Reactive and Template based forms
-27. Validators
-28. https://angular.io/cli/new  project with routing module(ng new name --routing) and much more
-29. Routing notes- https://angular.io/guide/router
-30. npm i -g typescript
-31. tsc -version
-32. npm install -g @angular/cli
-33. ng serve -o (open file in code editor)
-34. custom pipes
+26. Reactive forms
+27.  Template based forms
+28. Validators
+29. https://angular.io/cli/new  project with routing module(ng new name --routing) and much more
+30. Routing notes- https://angular.io/guide/router
+31. npm i -g typescript
+32. tsc -version
+33. npm install -g @angular/cli
+34. ng serve -o (open file in code editor)
+35. custom pipes
 
