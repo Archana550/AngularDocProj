@@ -30,7 +30,7 @@ Hey, I am learning Angular.
 - INTERPOLATION
 - BINDING
 - PIPES
-- SERVICES
+- SERVICES->data manipulation
 
 24. COMPONENTS
 25. RxJs , subscribe, observable *
