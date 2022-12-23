@@ -17,3 +17,5 @@
  and it is generally used to perform tasks related to angular bindings.
  
  Services can be added either in component level(app.component.ts) or module level(app.module.ts)
+ 
+ - Command to generate services= ng g service <<servicename>>  e.g. ng g c student
