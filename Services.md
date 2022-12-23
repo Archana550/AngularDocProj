@@ -15,3 +15,5 @@
  
  ngOnInit()-> This is a lifecycle hook method provided by angular which is called after the constructor 
  and it is generally used to perform tasks related to angular bindings.
+ 
+ Services can be added either in component level(app.component.ts) or module level(app.module.ts)
