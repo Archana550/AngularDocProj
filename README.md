@@ -44,4 +44,6 @@ Hey, I am learning Angular.
 33. npm install -g @angular/cli
 34. ng serve -o (open file in code editor)
 35. custom pipes
+36. Template driven forms-> easy, no testing, can't do complex validations
+37. Reactive-> complex, can do complex-validations
 
